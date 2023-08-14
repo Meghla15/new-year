@@ -1,0 +1,26 @@
+.{
+    margin: 0px;
+    font-family: 'Lucida Sans';
+}
+
+.header{
+    width: 1000px;
+    height: 400px;
+}
+
+.text-position{
+    position: absolute;
+    top: 120px;
+    right: 16px;
+}
+
+.nav-title{
+    font-weight: 700;
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
