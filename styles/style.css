@@ -86,3 +86,41 @@
     background-image: url('../images/icons/mark.png');
     background-repeat: no-repeat;
 }
+
+.plans-sub-title{
+    font-size: 40px;
+    font-weight: 700px;
+    text-align: center;
+    margin-top: 200px;
+}
+.plans-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+    width: 93px;
+    height: 93px;
+   
+}
+.plans-title{
+    font-size: 30px;
+    color: var(--dark-01, #151414);
+    text-align:center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.plans-description{
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.pic{
+    margin: 300px 200px 500px;
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
+}
